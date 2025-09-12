@@ -21,11 +21,11 @@
     "crowdin:upload": "npm run write-i18n && crowdin upload"
   },
   "dependencies": {
-    "@crowdin/cli": "^3.17.0",
-    "@docusaurus/core": "^2.2.0",
-    "@docusaurus/plugin-google-gtag": "^2.4.0",
-    "@docusaurus/preset-classic": "^2.2.0",
-    "@docusaurus/theme-search-algolia": "^2.2.0",
+    "@crowdin/cli": "^3.19.4",
+    "@docusaurus/core": "^3.8.1",
+    "@docusaurus/plugin-google-gtag": "^3.8.1",
+    "@docusaurus/preset-classic": "^3.8.1",
+    "@docusaurus/theme-search-algolia": "^3.8.1",
     "babel-eslint": "^10.1.0",
     "clsx": "^1.2.1",
     "eslint": "^7.3.1",
@@ -35,7 +35,7 @@
     "prettier": "^2.0.5",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "rehype-katex": "^4.0.0",
+    "rehype-katex": "^7.0.1",
     "remark-math": "^3.0.1"
   },
   "browserslist": {
