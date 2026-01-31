@@ -21,14 +21,14 @@
     "crowdin:upload": "npm run write-i18n && crowdin upload"
   },
   "dependencies": {
-    "@crowdin/cli": "^3.17.0",
+    "@crowdin/cli": "^4.6.0",
     "@docusaurus/core": "^2.2.0",
     "@docusaurus/plugin-google-gtag": "^2.4.0",
     "@docusaurus/preset-classic": "^2.2.0",
     "@docusaurus/theme-search-algolia": "^2.2.0",
     "babel-eslint": "^10.1.0",
     "clsx": "^1.2.1",
-    "eslint": "^7.3.1",
+    "eslint": "^9.26.0",
     "eslint-plugin-react": "^7.20.0",
     "postcss": "^8.4.31",
     "postcss-loader": "^4.2.0",
